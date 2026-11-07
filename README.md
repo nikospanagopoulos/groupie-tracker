@@ -264,7 +264,7 @@ A Zone01 Athens team project.
 | Zone01 login | Focus |
 |---|---|
 | **npanagopoul** ([Nikolaos Panagopoulos](https://github.com/nikospanagopoulos)) | HTTP server and routing, page handlers, JSON API, error handling and panic recovery |
-|| **dsakkas** ([Dimitris Sakkas](https://github.com/dimsakkas)) | Data models, `fetch`, `geocode`, `store`, `search` |
+| **dsakkas** ([Dimitris Sakkas](https://github.com/dimsakkas)) | Data models, `fetch`, `geocode`, `store`, `search` |
 | **dpavaloa** ([Dimitris Pavaloaia](https://github.com/Mimispavo)) | HTML templates, CSS, JavaScript (autocomplete, live filtering, maps) |
 
 Tests and documentation were written by the whole team.
