@@ -1,5 +1,5 @@
-server
-groupie-tracker
+/server
+/groupie-tracker
 *.exe
 data/geocache.json
 data/geocache.json.tmp
